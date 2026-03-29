@@ -77,11 +77,6 @@ Secteurs / Anneau	Répartition des parts (limité à 5-6 parts maximum)
 Aire	Cumul des ventes, suivi des objectifs
 Jauge / Compteur	Indicateur unique, taux de réussite
 
-Outils de Visualisation Rapide et Interactivité
-
-* Sparklines : Mini-graphiques (courbes, histogrammes ou Positif/Négatif) insérés directement dans une cellule, idéaux pour les cartes KPI.
-* Segments (Slicers) : Filtres visuels cliquables plus intuitifs que les filtres classiques, pouvant piloter plusieurs TCD simultanément.
-* Chronologie (Timeline) : Filtre de date visuel avec curseur glissant, nécessitant un champ de type "Date".
 
 
 --------------------------------------------------------------------------------
